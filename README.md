@@ -25,9 +25,6 @@ If you are using this package in a code project, please acknowledge by adding ou
 
 There is another repository linked to sispo which uses Docker to simplify the installation. Can be found here [sispo_docker](https://github.com/SISPO-developers/sispo_docker)
 
-## Install
-
-## Usage
 ### CLI
 If sispo is installed as a python package via pip, sispo provides a CLI.
 

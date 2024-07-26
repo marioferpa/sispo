@@ -9,7 +9,15 @@
 
 Welcome to SISPO's documentation!
 =================================
-.. mdinclude:: ../../README.md
+.. .. mdinclude:: ../../README.md
+
+Contents
+=================================
+.. toctree::
+   :maxdepth: 2
+
+   modules
+   setup
 
 Example images created by SISPO using the Blender renderer
 ==========================================================
@@ -57,7 +65,7 @@ Figure 3: Software flow diagram showing how functions are executed step by step 
 
 Figure 4: Software flow diagram showing how functions are executed step by step during reconstruction.
 
-.. toctree::
+.. .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
